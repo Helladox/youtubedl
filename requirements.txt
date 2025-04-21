@@ -1,5 +1,5 @@
 pyrogram
-tgcrypto
+TgCrypto
 yt-dlp
 requests
 python-dotenv
